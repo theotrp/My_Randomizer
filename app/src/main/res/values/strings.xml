@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Randomizer</string>
+    <string name="number">1</string>
+    <string name="s1">-1</string>
+    <string name="a1">+1</string>
+    <string name="s10">-10</string>
+    <string name="a10">+10</string>
+    <string name="number_of_faces">Number of faces :</string>
+    <string name="Final_Number">1</string>
+    <string name="roll">Roll</string>
+    <string name="result">Result =</string>
+    <string name="go1">1</string>
+    <string name="go20">20</string>
+    <string name="go6">6</string>
+    <string name="go12">12</string>
+    <string name="bckg_for_app">bckg for app</string>
+    <string name="informationButton">TODO</string>
+</resources>
